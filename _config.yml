@@ -1,0 +1,14 @@
+layout_spectrum: 0.9940923
+color:
+  saturation: 0.575188
+  lightness: 0.5773362
+  brandStrength: 0.5537057
+  brandColors:
+    - '#6A06F4'
+    - '#1E599D'
+    - '#C0DA21'
+    - '#4C7966'
+    - '#8242B8'
+  rhythmicContrast: 0.9779807
+typography_spectrum: 0.08754028
+name: Random Thoughts
